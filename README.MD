@@ -161,4 +161,7 @@ ShopRwanda should leverage these insights by prioritizing stock and promotions f
 6. SQL Shack — Practical Examples of Window Functions https://www.sqlshack.com/sql-window-functions-overview-and-examples/)
 7. VSCODE for writing README.MD https://code.visualstudio.com/
 
+***Statement of Originality***  
+All sources have been properly cited. The implementations and analysis are original work. No AI-generated content was used without proper attribution or adaptation.
+
 
